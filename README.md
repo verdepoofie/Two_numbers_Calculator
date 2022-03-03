@@ -1,4 +1,4 @@
-# test_calc
+# Two_numbers_Calculator
 remining of c++ bace
 Просто вспоминаю основы c++
 Вводите простейшие математические операции и получайте решение.
